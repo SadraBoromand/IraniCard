@@ -1,0 +1,296 @@
+{
+  "BTC": {
+    "buy": {
+      "dname": "Bitcoin",
+      "symbol": "BTC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+      "coinmarketcap_id": "1",
+      "price": 92685244260,
+      "active": 1
+    },
+    "sell": {
+      "price": 92685244260,
+      "active": 1
+    }
+  },
+  "ETH": {
+    "buy": {
+      "dname": "Ethereum",
+      "symbol": "ETH",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+      "coinmarketcap_id": "1027",
+      "price": 2211604605,
+      "active": 1
+    },
+    "sell": {
+      "price": 2211604605,
+      "active": 1
+    }
+  },
+  "USDT": {
+    "buy": {
+      "dname": "Tether",
+      "symbol": "USDT",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
+      "coinmarketcap_id": "825",
+      "price": 829500,
+      "active": 1
+    },
+    "sell": {
+      "price": 829500,
+      "active": 1
+    }
+  },
+  "BNB": {
+    "buy": {
+      "dname": "Binance Coin",
+      "symbol": "BNB",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png",
+      "coinmarketcap_id": "1839",
+      "price": 565362315,
+      "active": 1
+    },
+    "sell": {
+      "price": 565362315,
+      "active": 1
+    }
+  },
+  "ADA": {
+    "buy": {
+      "dname": "Cardano",
+      "symbol": "ADA",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png",
+      "coinmarketcap_id": "2010",
+      "price": 668328.15,
+      "active": 1
+    },
+    "sell": {
+      "price": 668328.15,
+      "active": 1
+    }
+  },
+  "XRP": {
+    "buy": {
+      "dname": "XRP",
+      "symbol": "XRP",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png",
+      "coinmarketcap_id": "52",
+      "price": 2016763.3499999999,
+      "active": 1
+    },
+    "sell": {
+      "price": 2016763.3499999999,
+      "active": 1
+    }
+  },
+  "DOGE": {
+    "buy": {
+      "dname": "Dogecoin",
+      "symbol": "DOGE",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+      "coinmarketcap_id": "74",
+      "price": 201303.06,
+      "active": 1
+    },
+    "sell": {
+      "price": 201303.06,
+      "active": 1
+    }
+  },
+  "USDC": {
+    "buy": {
+      "dname": "USD Coin",
+      "symbol": "USDC",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+      "coinmarketcap_id": "3408",
+      "price": 828504.6,
+      "active": 1
+    },
+    "sell": {
+      "price": 828504.6,
+      "active": 1
+    }
+  },
+  "BCH": {
+    "buy": {
+      "dname": "Bitcoin Cash",
+      "symbol": "BCH",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png",
+      "coinmarketcap_id": "1831",
+      "price": 362964315,
+      "active": 1
+    },
+    "sell": {
+      "price": 362964315,
+      "active": 1
+    }
+  },
+  "LINK": {
+    "buy": {
+      "dname": "Chainlink",
+      "symbol": "LINK",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png",
+      "coinmarketcap_id": "1975",
+      "price": 13927305,
+      "active": 1
+    },
+    "sell": {
+      "price": 13927305,
+      "active": 1
+    }
+  },
+  "XLM": {
+    "buy": {
+      "dname": "Stellar",
+      "symbol": "XLM",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+      "coinmarketcap_id": "512",
+      "price": 251571.58950000003,
+      "active": 1
+    },
+    "sell": {
+      "price": 251571.58950000003,
+      "active": 1
+    }
+  },
+  "SOL": {
+    "buy": {
+      "dname": "Solana",
+      "symbol": "SOL",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+      "coinmarketcap_id": "5426",
+      "price": 148969905,
+      "active": 1
+    },
+    "sell": {
+      "price": 148969905,
+      "active": 1
+    }
+  },
+  "TRX": {
+    "buy": {
+      "dname": "TRON",
+      "symbol": "TRX",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png",
+      "coinmarketcap_id": "1958",
+      "price": 230103.3,
+      "active": 1
+    },
+    "sell": {
+      "price": 230103.3,
+      "active": 1
+    }
+  },
+  "SHIB": {
+    "buy": {
+      "dname": "SHIBA INU",
+      "symbol": "SHIB",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png",
+      "coinmarketcap_id": "5994",
+      "price": 12.7454334,
+      "active": 1
+    },
+    "sell": {
+      "price": 12.7454334,
+      "active": 1
+    }
+  },
+  "AVAX": {
+    "buy": {
+      "dname": "Avalanche",
+      "symbol": "AVAX",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+      "coinmarketcap_id": "5805",
+      "price": 20921483.1,
+      "active": 1
+    },
+    "sell": {
+      "price": 20921483.1,
+      "active": 1
+    }
+  },
+  "HBAR": {
+    "buy": {
+      "dname": "Hedera Hashgraph",
+      "symbol": "HBAR",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png",
+      "coinmarketcap_id": "4642",
+      "price": 170371.005,
+      "active": 1
+    },
+    "sell": {
+      "price": 170371.005,
+      "active": 1
+    }
+  },
+  "TON": {
+    "buy": {
+      "dname": "Toncoin",
+      "symbol": "TON",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+      "coinmarketcap_id": "11419",
+      "price": 2633330.6999999997,
+      "active": 1
+    },
+    "sell": {
+      "price": 2633330.6999999997,
+      "active": 1
+    }
+  },
+  "LEO": {
+    "buy": {
+      "dname": "UNUS SED LEO",
+      "symbol": "LEO",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png",
+      "coinmarketcap_id": "3957",
+      "price": 7361812.5,
+      "active": 1
+    },
+    "sell": {
+      "price": 7361812.5,
+      "active": 1
+    }
+  },
+  "TONCOIN": {
+    "buy": {
+      "dname": "Ton coin",
+      "symbol": "TONCOIN",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png",
+      "coinmarketcap_id": "11419",
+      "price": 2568961.5,
+      "active": 0
+    },
+    "sell": {
+      "price": 2568961.5,
+      "active": 0
+    }
+  },
+  "SUI": {
+    "buy": {
+      "dname": "Sui",
+      "symbol": "SUI",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png",
+      "coinmarketcap_id": "20947",
+      "price": 3248487.9,
+      "active": 1
+    },
+    "sell": {
+      "price": 3248487.9,
+      "active": 1
+    }
+  },
+  "HYPE": {
+    "buy": {
+      "dname": "Hyperliquid",
+      "symbol": "HYPE",
+      "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/32196.png",
+      "coinmarketcap_id": "32196",
+      "price": 28021671.299999997,
+      "active": 1
+    },
+    "sell": {
+      "price": 28021671.299999997,
+      "active": 1
+    }
+  }
+}
